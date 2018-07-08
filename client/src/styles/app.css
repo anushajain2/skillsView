@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.container {
+    background-color: hsl(0, 0.7, 0);
+    width: 100%;
+    height: 100%;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+
+}
+
+.containerapp { 
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,78 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(51, 0, 0);
+    /* background-image: url('./Road.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.LandingHeaders {
+    color: rgb(64, 224, 208);
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 70%;
+    text-align: center;
+}
+
+.Header1 {
+    /* position: relative; */
+    /* top: 10%;
+    /* left: 50%; */
+    /* display: inline;  */
+    /* transform: translateX(-50%) translateY(-100%); */
+    font-size: 50px;
+    height: 50px;
+    margin: 0px;
+    /* color: rgb(249, 253, 7); */
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.Header2 {
+    /* position: relative; */
+    /* top: 10%;
+    /* left: 50%; */
+    /* display: inline;  */
+    /* transform: translateX(-50%) translateY(-100%); */
+    font-size: 50px;
+    height: 50px;
+    margin: 0px;
+    color: rgb(255, 255, 0);
+}
+
+
+.Header3 {
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-100%); */
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    top: 100px;
+    
+}
+
+.button {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size:30px;
+    /* background-color: rgb(179, 255, 240); */
+    background-color: rgb(255, 204, 0);
+    top: 95px;
+    width: 350px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(51, 0, 0);
+    font-weight: bold;
+}
+
+

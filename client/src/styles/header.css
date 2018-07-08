@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0);
+    top: 1%;
+}
+
+.chopscv {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    vertical-align: middle;
+    line-height: 50px;  
+    left: 5%; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login {
+    color: rgb(255, 255, 255);
+    position: relative;
+    vertical-align: middle;
+    line-height: 50px;
+    left: 85%;
+    text-decoration: none;
+    font-size: 20px;
+    top: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,141 @@
+.chopsview {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: 0%;
+    background-color: rgb(51, 0, 0);
+}
+
+.boxdetails {
+    height: 60%;
+    width: 100%;
+    text-align: top;
+    margin-top: -10px;
+    /* margin-bottom: 5%; */
+}
+
+
+.div1 {
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    text-align: center;
+}
+
+.div2 {
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    text-align: center;
+
+}
+
+.div3 {
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    text-align: center;
+
+}
+
+.table1 {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(64, 255, 255);
+    border-collapse: separate; /* allow spacing between cell borders */
+    border-spacing: 10px 20px; 
+}
+
+td {
+    padding: 20px;
+    background-color: gray;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+
+
+.table2 {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(64, 255, 255);
+    border-collapse: separate; /* allow spacing between cell borders */
+    border-spacing: 10px 20px; 
+}
+
+.table3 {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(64, 255, 255);
+    border-collapse: separate; /* allow spacing between cell borders */
+    border-spacing: 10px 20px; 
+}
+
+.boxes {
+    height: 50px;
+    width: 100%;
+    left: 50%;
+    margin-top: 8%;
+    text-align: center;
+    transform: translate(0%, -50%);
+}
+
+.chop1 {
+    display: inline-block;
+    margin-left: 5px;
+    background-color: rgb(64, 255, 255);
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    width: auto;
+}
+
+.chop2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+    background-color: rgb(64, 255, 255);
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    width: auto;
+}
+
+.chop3 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+    border-width: 2px;
+    margin-top: 3%;
+    
+    border-color: rgb(64, 255, 255);
+    background-color: rgb(64, 255, 255);
+    height: auto;
+    border-radius: 5%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: auto;
+    width: auto;
+}
+
+.mastery {
+    top: 10%;
+    transform: translate(0%, 20%);
+    height: 10%;
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+
+}
+
+
+/* add this with transforms
+-webkit-transform: translate(-50%, -50%);
+-moz-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+-o-transform: translate(-50%, -50%); */
