@@ -1,0 +1,67 @@
+.surveyForm {
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    background-color:rgb(51, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.actualForm {
+    background-color: rgb(240, 240, 240);
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.fields {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.field {
+    margin-bottom: 20px;
+}
+
+.cancel {
+    position: absolute;
+    left: 25%;
+    transform: translateX(-50%);
+    background-color: rgb(5, 58, 16);
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+   
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 35px;
+    text-decoration: none;
+    height: 35px;
+}
+
+.submit {
+    position: absolute;
+    right: 20%;
+    transform: translateX(-50%);
+    background-color: rgb(13, 175, 86);
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+   
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 35px;
+    text-decoration: none;
+    height: 35px;
+}
+
